@@ -1,0 +1,123 @@
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).dll.config
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).pdb
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.exe
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.exe.config
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.rsp
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.exe
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.exe.config
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.rsp
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.AppContext.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Console.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Net.Http.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.exe
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.exe.config
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.rsp
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).csprojAssemblyReference.cache
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).csproj.CopyComplete
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).pdb
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.SqlServer.dll
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.xml
+C:\Users\ozbay\source\repos\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).dll.config
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\DinamikCV(ASP.Net).pdb
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.exe
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.exe.config
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csc.rsp
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.exe
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.exe.config
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\csi.rsp
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.AppContext.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Console.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Net.Http.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.exe
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.exe.config
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\vbc.rsp
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).dll
+C:\Users\Ekrem\Desktop\Projeler\Yeni klasör (3)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\DinamikCV(ASP.Net)\obj\Debug\DinamikCV(ASP.Net).pdb

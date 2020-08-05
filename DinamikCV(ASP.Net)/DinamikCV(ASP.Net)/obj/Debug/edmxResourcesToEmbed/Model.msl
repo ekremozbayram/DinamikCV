@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbCvEntityModelStoreContainer" CdmEntityContainer="DbCvEntityEntities">
+    <EntitySetMapping Name="TblAdres">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblAdres">
+        <MappingFragment StoreEntitySet="TblAdres">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="konum" ColumnName="konum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblCalismalar">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblCalismalar">
+        <MappingFragment StoreEntitySet="TblCalismalar">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblHakkimda">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblHakkimda">
+        <MappingFragment StoreEntitySet="TblHakkimda">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="bilgiler" ColumnName="bilgiler" />
+          <ScalarProperty Name="egitim" ColumnName="egitim" />
+          <ScalarProperty Name="deneyimler" ColumnName="deneyimler" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblIletisim">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblIletisim">
+        <MappingFragment StoreEntitySet="TblIletisim">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="adsoyad" ColumnName="adsoyad" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="mesaj" ColumnName="mesaj" />
+          <ScalarProperty Name="konu" ColumnName="konu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblYetenekler">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblYetenekler">
+        <MappingFragment StoreEntitySet="TblYetenekler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="yetenek" ColumnName="yetenek" />
+          <ScalarProperty Name="derece" ColumnName="derece" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblAdmin">
+      <EntityTypeMapping TypeName="DbCvEntityModel.TblAdmin">
+        <MappingFragment StoreEntitySet="TblAdmin">
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="kullaniciAd" ColumnName="kullaniciAd" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
